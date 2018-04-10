@@ -1,19 +1,24 @@
+## SAVE THE CHILDREN
+
+¿Cómo podríamos optimizar el journey de un usuario que desea donar a la organización Save The Children? 
+
 * **Especialidad:** UX Designer
 * **Sprint 05** 
 * **Duración:** 3 semanas
 * **Mentor:** Camilo Salazar Paris y Karla Nava M.
 * **Team:** 
 
-    - Brenda Milián **Product Owner**
-    - Viridiana Montoya **UX Designer**
-    - Andrea Gutierrez **UX Designer**
-    - Karina Becerra **UX Research**
-    - Nancy Ortega **UX Research** 
-
-![Save_The_Children Logo](assets/images/sta-new-logo.png)
-
+   - Brenda Milián **Product Owner**
+   - Viridiana Montoya **UX Designer**
+   - Andrea Gutierrez **UX Designer**
+   - Karina Becerra **UX Research**
+   - Nancy Ortega **UX Research** 
+   
+![captura de pantalla 2018-04-10 a la s 15 35 01](https://user-images.githubusercontent.com/32876098/38582263-d0ec70d6-3cd4-11e8-8888-cde2cf962190.png)
 
 El objetivo del sprint es crear una solución para optimizar el journey de un usuario que llega a landingPage de Save The Children.
+
+**ELABORADO PARA** SAVE THE CHILDREN MX. 
 
 <hr>
 

@@ -4,8 +4,6 @@
    
 ![captura de pantalla 2018-04-10 a la s 15 35 01](https://user-images.githubusercontent.com/32876098/38582263-d0ec70d6-3cd4-11e8-8888-cde2cf962190.png)
 
-El objetivo del sprint es crear una solución para optimizar el journey de un usuario que llega a landingPage de Save The Children.
-
 **ELABORADO PARA** SAVE THE CHILDREN MX. 
 
 <hr>
@@ -21,7 +19,10 @@ El objetivo del sprint es crear una solución para optimizar el journey de un us
    - Andrea Gutierrez **UX Designer**
    - Karina Becerra **UX Research**
    - Nancy Ortega **UX Research** 
-   
+
+
+El objetivo del sprint es crear una solución para optimizar el journey de un usuario que llega a landingPage de Save The Children.
+
 ## Problema
 
 Se acercó a nosotros el __ de la organización Save The Children para encontrar la manera de aumentar el número de conversiones a través de la optimización de una landingPage, esto debido a que sólo el .5% de los visitantes en landinPage se convierte en donante por lo que urge una reestructuración en este canal de ingreso de donantes.
